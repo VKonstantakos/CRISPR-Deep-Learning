@@ -1,5 +1,5 @@
 # CRISPR-Deep-Learning
-Repository for the CRISPR Deep Learning review article. All data and code to reproduce our analysis.
+Repository for the CRISPR Deep Learning review article. It includes all the data and code to reproduce our analysis.
 
 
 ## Requirements
@@ -19,11 +19,11 @@ The scripts are written in Python 3.7.4 (Anaconda version: 4.8.5) and run on Win
 
 ## Content
 - ./Data: the original and processed datasets that have been used in our analysis.
-- ./Scripts: custom scripts to reproduce our results.
 - ./Saved models: all the trained and re-trained models that we implemented in our study.
+- ./Scripts: custom Python scripts to reproduce our results.
 
 ## Citation
+TBD
 
-
-## Contacts
-You can submit bug reports using the GitHub issue tracker. If you have any other questions, please contact us at va.konstantakos@gmail.com
+## Support
+You can submit bug reports using the GitHub issue tracker. If you have any other questions, please contact us at vkonstantakos@iit.demokritos.gr

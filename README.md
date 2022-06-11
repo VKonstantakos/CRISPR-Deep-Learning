@@ -23,7 +23,7 @@ The scripts are written in Python 3.7.4 (Anaconda version: 4.8.5) and run on Win
 - ./Scripts: custom Python scripts to reproduce our results.
 
 ## Citation
-TBD
+Vasileios Konstantakos, Anastasios Nentidis, Anastasia Krithara, Georgios Paliouras, CRISPR-Cas9 gRNA efficiency prediction: an overview of predictive tools and the role of deep learning, Nucleic Acids Research, https://doi.org/10.1093/nar/gkac192
 
 ## Support
 You can submit bug reports using the GitHub issue tracker. If you have any other questions, please contact us at vkonstantakos@iit.demokritos.gr
